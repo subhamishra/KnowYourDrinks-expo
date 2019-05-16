@@ -20,3 +20,4 @@ Then run `npm start` in your project root folder, and it will give you a QR code
 
 Scan the QR code from the Expo app and scan the QR code and there you go you should see all the drinks.
 
+for more information follow [Expo](https://docs.expo.io/versions/v32.0.0/introduction/installation/) and [React-Native with Expo](https://facebook.github.io/react-native/docs/getting-started#running-your-react-native-application)
